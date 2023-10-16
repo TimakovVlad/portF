@@ -5,6 +5,6 @@
 ### Место жительства:
 г. Тверь
 ### Фото:
-https://imgur.com/ZtJ9GTt
+![](https://imgur.com/ZtJ9GTt.jpg)
 
 и т. д.
